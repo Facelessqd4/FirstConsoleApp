@@ -1,0 +1,15 @@
+C:\Users\Facel\OneDrive\Documents\CSharpCourse\FirstConsoleApp\ShiftReport\obj\Debug\net10.0\ShiftReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Facel\OneDrive\Documents\CSharpCourse\FirstConsoleApp\ShiftReport\obj\Debug\net10.0\ShiftReport.AssemblyInfoInputs.cache
+C:\Users\Facel\OneDrive\Documents\CSharpCourse\FirstConsoleApp\ShiftReport\obj\Debug\net10.0\ShiftReport.AssemblyInfo.cs
+C:\Users\Facel\OneDrive\Documents\CSharpCourse\FirstConsoleApp\ShiftReport\obj\Debug\net10.0\ShiftReport.csproj.CoreCompileInputs.cache
+C:\Users\Facel\OneDrive\Documents\CSharpCourse\FirstConsoleApp\ShiftReport\bin\Debug\net10.0\events.log
+C:\Users\Facel\OneDrive\Documents\CSharpCourse\FirstConsoleApp\ShiftReport\bin\Debug\net10.0\ShiftReport.exe
+C:\Users\Facel\OneDrive\Documents\CSharpCourse\FirstConsoleApp\ShiftReport\bin\Debug\net10.0\ShiftReport.deps.json
+C:\Users\Facel\OneDrive\Documents\CSharpCourse\FirstConsoleApp\ShiftReport\bin\Debug\net10.0\ShiftReport.runtimeconfig.json
+C:\Users\Facel\OneDrive\Documents\CSharpCourse\FirstConsoleApp\ShiftReport\bin\Debug\net10.0\ShiftReport.dll
+C:\Users\Facel\OneDrive\Documents\CSharpCourse\FirstConsoleApp\ShiftReport\bin\Debug\net10.0\ShiftReport.pdb
+C:\Users\Facel\OneDrive\Documents\CSharpCourse\FirstConsoleApp\ShiftReport\obj\Debug\net10.0\ShiftReport.dll
+C:\Users\Facel\OneDrive\Documents\CSharpCourse\FirstConsoleApp\ShiftReport\obj\Debug\net10.0\refint\ShiftReport.dll
+C:\Users\Facel\OneDrive\Documents\CSharpCourse\FirstConsoleApp\ShiftReport\obj\Debug\net10.0\ShiftReport.pdb
+C:\Users\Facel\OneDrive\Documents\CSharpCourse\FirstConsoleApp\ShiftReport\obj\Debug\net10.0\ShiftReport.genruntimeconfig.cache
+C:\Users\Facel\OneDrive\Documents\CSharpCourse\FirstConsoleApp\ShiftReport\obj\Debug\net10.0\ref\ShiftReport.dll
