@@ -1,10 +1,5 @@
 ﻿using System.Text;
-using System.Collections.Generic;
 using System.Globalization;
-using System;
-using System.IO;
-using System.Security.Permissions;
-
 class Program
 {
     const string DateFormat = "yyyy-MM-dd HH:mm";
