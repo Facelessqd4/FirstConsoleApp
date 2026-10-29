@@ -19,6 +19,7 @@ class Program
     static List<string> warnings = new List<string>();
     static void Main()
     {
+        Console.WriteLine();
         string path = Path.Combine(AppContext.BaseDirectory, "events.log");
         string[] lines = ReadLog(path);
 
@@ -253,8 +254,9 @@ class Program
         {
             report.AppendLine($"Хуже всех: {worstCode} ({FormatDuration(worstTime)})");
         }
-            AppendList(report, "Отброшено строк", rejected);
-            AppendList(report, "Предупреждения", warnings);
+        
+        AppendList(report, "Отброшено строк", rejected);
+        AppendList(report, "Предупреждения", warnings);
 
         return report.ToString();
     }

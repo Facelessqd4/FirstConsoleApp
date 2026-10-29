@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShiftReport")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9462ac3887a3c42277206d1818079bef3f9c2c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShiftReport")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShiftReport")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
